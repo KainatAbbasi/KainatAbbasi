@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=998&color=05C323&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Kainat+Abbasi;A+Passionate+Frontend+Developer)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://via.placeholder.com/300" alt="Computer Picture">
+</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=998&color=1713C3&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Kainat+Abbasi;A+Passionate+Frontend+Developer)](https://git.io/typing-svg)
 
 Hello, I'm **Kainat Abbasi**, a dedicated student passionate about learning and exploring the realms of technology. Currently enrolled in a course on cloud and applied generative AI, I'm committed to mastering development. My focus also extends to advancing my proficiency in TypeScript and delving deeper into web development.
 
@@ -11,8 +15,8 @@ Looking ahead, I'm excited about the prospect of applying my skills to craft inn
 - 📫 How to reach me: **KainatAkmal2003@gmail.com**
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kainat%20Abbasi-blue)](https://linkedin.com/in/kainat-abbasi)
-[![Facebook](https://img.shields.io/badge/Facebook-Kainat%20Abbasi-blue)](https://fb.com/kainat-abbasi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kainat%20Abbasi-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/kainat-abbasi)
+[![Facebook](https://img.shields.io/badge/Facebook-Kainat%20Abbasi-blue?logo=facebook&style=for-the-badge)](https://fb.com/kainat-abbasi)
 
 ### Languages and Tools:
 <p align="left"> 
