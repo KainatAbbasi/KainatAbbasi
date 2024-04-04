@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=998&color=05C323&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Kainat+Abbasi;A+Passionate+Frontend+Developer)](https://git.io/typing-svg)
-<h1 align="center">Hi 👋, I'm Kainat Abbasi</h1>
-<h3 align="center">A passionate frontend developer</h3>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=998&color=05C323&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Kainat+Abbasi;A+Passionate+Frontend+Developer" alt="Typing SVG" /></a>
 - 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Typescript , Python**
