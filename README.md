@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://via.placeholder.com/300" alt="Computer Picture">
-</div>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=998&color=1713C3&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Kainat+Abbasi;A+Passionate+Frontend+Developer)](https://git.io/typing-svg)
 
 Hello, I'm **Kainat Abbasi**, a dedicated student passionate about learning and exploring the realms of technology. Currently enrolled in a course on cloud and applied generative AI, I'm committed to mastering development. My focus also extends to advancing my proficiency in TypeScript and delving deeper into web development.
